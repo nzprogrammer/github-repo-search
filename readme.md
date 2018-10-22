@@ -3,7 +3,7 @@ This web application uses PHP Laravel framework to search GitHub Public API with
 
 Steps to run the application:
 1. Clone the project from the repo or download it as a zip to your workspace.
-2. Go into "githubsearch" directory.
+2. Go into "github-repo-search" directory.
 3. Run Command: 
     composer update 
     &
