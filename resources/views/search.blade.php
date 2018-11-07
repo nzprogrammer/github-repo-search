@@ -85,7 +85,7 @@
         <table class="table-bordered">
             <thead>
                 <th>Project Name</th>
-                <th>Created</th>
+                <th>Created at</th>
                 <th>Time Since Creation</th>
                 <th>Description</th>
                 <th>Is a Fork</th> 
@@ -149,7 +149,6 @@
                         <a href="{{$item->html_url}}" target="_blank">Action</a>
                     </td>
                 </tr>
-                
                 @endforeach
             </tbody>
         </table>
