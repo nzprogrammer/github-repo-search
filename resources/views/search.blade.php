@@ -85,7 +85,7 @@
         <table class="table-bordered">
             <thead>
                 <th>Project Name</th>
-                <th>Created at</th>
+                <th>Created At</th>
                 <th>Time Since Creation</th>
                 <th>Description</th>
                 <th>Is a Fork</th> 
